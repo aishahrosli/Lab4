@@ -2,7 +2,7 @@ import java.io.DataOutputStream;
 import java.io.IOException;
 import java.net.ServerSocket;
 import java.net.Socket;
-
+ 
 /**
  * This class launch the server side application using TCP.
  * The server generates current date.

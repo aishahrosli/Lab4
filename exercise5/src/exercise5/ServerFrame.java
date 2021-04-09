@@ -3,7 +3,7 @@ package exercise5;
 import java.awt.*;
 import javax.swing.*;
 
-
+ 
 public class ServerFrame extends JFrame {
 
 	private static final long serialVersionUID = 1L;
