@@ -2,7 +2,7 @@ package exercise5;
 
 import java.awt.*;
 import javax.swing.*;
-
+ 
  
 public class ServerFrame extends JFrame {
 
